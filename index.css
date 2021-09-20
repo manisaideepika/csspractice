@@ -1,0 +1,33 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+.work{
+    color: darkred;
+    font-weight: 500;
+    line-height: 28px;
+}
+span{
+    background-color: yellow;
+    color: darkred;
+    font-weight: 700;
+}
+.space{
+    color:darkred;
+    letter-spacing: 7px;
+    font-weight: 500;
+}
+    
+p{
+    color: darkred;
+}
+a{
+    font-style: italic;
+    text-decoration: none;
+}
+.button{
+    font-size: 25px;
+}
